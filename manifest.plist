@@ -35,7 +35,9 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>FanweApp</string>
+                <string>
+                    <![CDATA[ 大發彩 ]]>
+                </string>
             </dict>
         </dict>
     </array>
