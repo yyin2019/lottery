@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://198.44.236.201/ios.ipa</string>
+                    <string>https://github.com/yyin2019/lottery/raw/main/ios.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
