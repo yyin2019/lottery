@@ -17,13 +17,13 @@
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>http://198.44.236.201/57.png</string>
+                    <string>https://github.com/yyin2019/lottery/blob/main/57.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>http://198.44.236.201/512.png</string>
+                    <string>https://github.com/yyin2019/lottery/blob/main/512.png</string>
                 </dict>
             </array>
             <key>metadata</key>
